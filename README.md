@@ -9,7 +9,7 @@ Alunos:
 - Thiago Mendes - RM555352 
 - Vinicius Banciela - RM558117
 
-Turma: 2TDSPW
+Turma - 2TDSPW
 
 
 # 📚 MotoSyncAuth API - Documentação Inicial
