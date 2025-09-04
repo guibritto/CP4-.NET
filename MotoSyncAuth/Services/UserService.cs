@@ -53,7 +53,7 @@ public class UserService
             && u.PasswordHash == hash);
         return user;
     }
-
+//comentario para commit funcionar
     public bool GeneratePasswordResetToken(string email)
     {
         var user = _users.FirstOrDefault(u => u.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
